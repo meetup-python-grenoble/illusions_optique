@@ -1,0 +1,27 @@
+# Core modules (mandatory)
+jupyterlite-core==0.2.3
+jupyterlab~=4.0.11
+notebook~=7.0.7
+
+# Python kernel (optional)
+jupyterlite-pyodide-kernel==0.2.3
+
+# Language support (optional)
+jupyterlab-language-pack-fr-FR
+
+# JupyterLab: dark theme
+jupyterlab-night
+# JupyterLab: Miami nights theme (optional)
+jupyterlab_miami_nights
+
+# Python: ipywidget library for Jupyter notebooks (optional)
+ipywidgets>=8.1.1,<9
+# Python: ipyevents library for Jupyter notebooks (optional)
+ipyevents>=2.0.1
+# Python: interative Matplotlib library for Jupyter notebooks (optional)
+ipympl>=0.8.2
+
+numpy
+matplotlib
+imageio
+
